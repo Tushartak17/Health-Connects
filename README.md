@@ -10,7 +10,7 @@ Accomplishments that we're proud of - We're proud to present our Hospital Manage
 What we learned - From this project, we learned the importance of teamwork and effective communication in tackling complex healthcare challenges. We gained insights into data security and privacy regulations, and the need for meticulous compliance. Additionally, we grasped the potential of technology to streamline healthcare processes and improve patient care. Lastly, we honed our problem-solving skills in a time-sensitive, high-pressure environment.
 What's next for HOSPATIL MANAGEMENT SYSTEM- "HEAKTH CONNECT" - Next for "Health Connect" is refining and expanding our system based on user feedback. We aim to forge partnerships with healthcare institutions for real-world implementation. Continuous updates for security and compliance are a priority, alongside the development of additional innovative features. Our vision is to revolutionize healthcare management on a broader scale, promoting better patient care and resource optimization.
 
-# Demo :- 
+# Demo :- https://jansh7784.github.io/Health-Connects/
 
 # Tutorial:- https://www.youtube.com/watch?v=6iAoehzjAdY
 
